@@ -1,6 +1,7 @@
 # Introduction #
 
-Authors/Github: 
+Authors/Github:
+
 Jonathan Hautzinger/JonHautz9 
 Andrew Susman/AndrewSusman 
 Kyle Leonard/kjleonard 
