@@ -3,9 +3,13 @@
 Authors/Github:
 
 Jonathan Hautzinger/JonHautz9
+
 Andrew Susman/AndrewSusman
+
 Kyle Leonard/kjleonard
+
 Cole Nardini/hydra1114
+
 Adam Nasim/axnasim
 
 This project was developed by my Capstone group for our Capstone class, CSCI 4970, at the University of Nebraska at Omaha.
