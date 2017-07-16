@@ -1,6 +1,4 @@
-# Introduction #
-
-Authors/Github:
+# Authors/Github:
 
 Jonathan Hautzinger/JonHautz9
 
@@ -11,6 +9,8 @@ Kyle Leonard/kjleonard
 Cole Nardini/hydra1114
 
 Adam Nasim/axnasim
+
+# Introduction 
 
 This project was developed by my Capstone group for our Capstone class, CSCI 4970, at the University of Nebraska at Omaha.
 
