@@ -2,9 +2,9 @@
 
 Authors/Github:
 
-Jonathan Hautzinger/JonHautz9 
-Andrew Susman/AndrewSusman 
-Kyle Leonard/kjleonard 
+Jonathan Hautzinger/JonHautz9
+Andrew Susman/AndrewSusman
+Kyle Leonard/kjleonard
 Cole Nardini/hydra1114
 Adam Nasim/axnasim
 
