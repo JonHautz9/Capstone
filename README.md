@@ -1,4 +1,4 @@
-# Authors/Github:
+# Authors/Github
 
 Jonathan Hautzinger/JonHautz9
 
