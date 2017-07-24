@@ -1,6 +1,4 @@
-This project was developed by my Capstone group for our Capstone class, CSCI 4970, at the University of Nebraska at Omaha.
-
-It was presented at the PKI Student Capstone & Research Conference on April 28, 2017. This was a collaboration with the University of Nebraska Medical Center to create a virtual environment using the Unity3D game engine and interfaced with Delsys Trigno devices.
+This project was developed by my Capstone group for our Capstone class, CSCI 4970, at the University of Nebraska at Omaha. It was presented at the PKI Student Capstone & Research Conference on April 28, 2017. This was a collaboration with the University of Nebraska Medical Center to create a virtual environment using the Unity3D game engine and interfaced with Delsys Trigno devices.
 
 # Authors / Github
 
